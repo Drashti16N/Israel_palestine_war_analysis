@@ -1,0 +1,49 @@
+﻿Year,Country,GDP (in USD),Population,GDP Growth Rate (%),Fertility Rate,"Infant Mortality Rate (per 1,000 live births)","Maternal Mortality Rate (per 100,000 live births)",Agricultural Output (in USD),Active Military Personnel,Reserve Military Personnel,Literacy Rate (%),IT Output (in USD),Number of Tanks,Number of Submarines,Number of Armoured Vehicles
+2000,Israel,132.02 billion,"60,49,000",5.18,2.89,5,7.2,5.71 billion,"1,68,000","4,45,000",97.1,6.78 billion,"2,760",3,"10,760"
+2000,Palestine,4.56 billion,"33,74,000",5.33,5.36,24.6,26,880 million,N/A,N/A,90.3,0.115 billion,N/A,N/A,N/A
+2001,Israel,131.02 billion,"61,65,000",-0.47,2.89,4.8,6.7,5.17 billion,"1,66,500","4,45,000",97.5,6.89 billion,"2,791",3,"10,814"
+2001,Palestine,4.59 billion,"34,00,000",-50,5.22,22.5,24.4,925 million,N/A,N/A,90.8,0.122 billion,N/A,N/A,N/A
+2002,Israel,126.64 billion,"62,63,000",-0.35,2.98,4.6,5.9,4.76 billion,"1,63,000","3,75,000",97.9,7.02 billion,"2,821",3,"10,885"
+2002,Palestine,4.34 billion,"34,21,000",-46.3,5.07,20.2,21.3,914 million,N/A,N/A,91.2,0.132 billion,N/A,N/A,N/A
+2003,Israel,129.56 billion,"66,84,000",2.8,2.81,4.3,6.1,5.10 billion,"1,60,000","4,45,000",97.9,7.15 billion,"2,819",3,"10,885"
+2003,Palestine,3.56 billion,"36,93,000",-16.1,5.15,23,30.9,819 million,N/A,N/A,91.7,0.143 billion,N/A,N/A,N/A
+2004,Israel,143.53 billion,"68,30,000",4.5,2.84,4.1,6.8,5.33 billion,"1,59,000","4,28,000",97.9,7.36 billion,"2,798",3,"10,886"
+2004,Palestine,3.89 billion,"37,91,000",10.5,4.95,21.6,29.4,876 million,N/A,N/A,92.1,0.154 billion,N/A,N/A,N/A
+2005,Israel,155.05 billion,"69,25,000",4.97,2.87,3.9,6.4,5.38 billion,"1,56,000","4,11,000",98.4,7.69 billion,"2,771",3,"10,876"
+2005,Palestine,4.13 billion,"38,90,000",7.6,4.78,19.7,28.1,927 million,N/A,N/A,92.5,0.165 billion,N/A,N/A,N/A
+2006,Israel,179.02 billion,"71,12,000",4.6,2.87,3.8,6.1,5.48 billion,"1,76,500","4,38,000",97.8,6.90 billion,"2,760",3,"10,634"
+2006,Palestine,4.47 billion,"37,62,000",5.8,4.14,18.6,25.4,929 million,N/A,N/A,91.9,0.230 billion,N/A,N/A,N/A
+2007,Israel,195.35 billion,"72,95,000",4.9,2.9,3.7,5.9,5.60 billion,"1,79,900","4,36,000",97.8,7.20 billion,"2,760",3,"10,634"
+2007,Palestine,4.96 billion,"38,65,000",5.3,4.07,17.6,24.3,978 million,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+2008,Israel,215.95 billion,"74,13,000",1.2,2.93,3.7,5.6,5.84 billion,"1,77,400","4,35,000",97.8,7.40 billion,"2,760",3,"10,634"
+2008,Palestine,5.05 billion,"39,66,000",4.2,3.98,16.7,23.2,1.02 billion,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+2009,Israel,202.98 billion,"76,02,000",0.8,2.93,4,5.5,5.80 billion,"1,69,700","4,34,000",97.8,7.50 billion,"2,760",3,"10,634"
+2009,Palestine,4.98 billion,"40,18,000",6.8,4,15.9,22.4,1.04 billion,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+2010,Israel,217.90 billion,"77,46,000",4.6,2.96,3.7,5.5,5.85 billion,"1,70,300","4,31,000",97.8,7.80 billion,"2,760",3,"10,634"
+2010,Palestine,4.95 billion,"40,70,000",8.5,3.99,15.1,21.9,1.08 billion,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+2011,Israel,242.89 billion,"79,07,000",4.6,2.96,3.5,4.9,5.90 billion,"1,70,750","4,29,500",97.8,8.20 billion,"2,760",3,"10,634"
+2011,Palestine,5.39 billion,"41,98,000",-0.5,3.87,14.3,21.1,1.12 billion,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+2012,Israel,254.94 billion,"80,81,000",3.3,2.99,3.3,4.7,5.97 billion,"1,71,450","4,28,000",97.8,8.60 billion,"2,760",5,"10,634"
+2012,Palestine,5.65 billion,"42,97,000",5.9,3.83,13.8,20.4,1.15 billion,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+2013,Israel,272.18 billion,"81,92,000",3.3,3.01,3.2,4.6,6.02 billion,"1,74,550","4,24,750",97.8,9.00 billion,"2,760",5,"10,634"
+2013,Palestine,5.69 billion,"44,04,000",4.9,3.79,13.4,20,1.17 billion,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+2014,Israel,291.03 billion,"82,99,000",3.6,3.02,3.1,4.3,6.07 billion,"1,77,350","4,21,500",97.8,9.30 billion,"2,760",5,"10,634"
+2014,Palestine,5.71 billion,"45,30,000",5.9,3.74,12.8,19.5,1.20 billion,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+2015,Israel,309.01 billion,"84,31,000",2.6,3.03,3,4.1,6.09 billion,"1,76,500","4,18,500",97.8,9.60 billion,"2,760",5,"10,634"
+2015,Palestine,5.87 billion,"46,92,000",3.3,3.69,12.3,18.9,1.23 billion,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+2016,Israel,321.57 billion,"85,48,000",4,3.06,2.9,3.8,6.10 billion,"1,76,500","4,15,000",97.8,10.00 billion,"2,760",5,"10,634"
+2016,Palestine,5.93 billion,"47,68,000",4,3.64,11.9,18.5,1.26 billion,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+2017,Israel,348.70 billion,"87,12,000",3.4,3.06,2.8,3.7,6.16 billion,"1,74,500","4,10,000",97.8,10.70 billion,"2,760",5,"10,634"
+2017,Palestine,6.00 billion,"48,16,000",3.1,3.57,11.4,17.9,1.29 billion,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+2018,Israel,370.12 billion,"89,72,000",3.5,3.06,2.7,3.6,6.20 billion,"1,70,000","4,05,000",97.8,11.20 billion,"2,760",5,"10,634"
+2018,Palestine,6.10 billion,"48,57,000",0.9,3.53,11,17.5,1.32 billion,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+2019,Israel,395.53 billion,"91,36,000",3.4,3.06,2.6,3.5,6.22 billion,"1,69,500","3,99,000",97.8,11.70 billion,"2,760",5,"10,634"
+2019,Palestine,6.09 billion,"48,95,000",1,3.48,10.6,17.1,1.35 billion,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+2020,Israel,375.82 billion,"92,27,000",-2.4,3.05,2.7,2.9,6.21 billion,"1,69,500","3,95,000",97.8,42.45 billion,"2,760",5,"10,634"
+2020,Palestine,6.20 billion,"49,34,000",-7.7,3.46,10.3,16.7,1.37 billion,N/A,,98.5,1.03 billion,N/A,N/A,N/A
+2021,Israel,398.02 billion,"93,90,000",1.63,3.02,2.6,3.3,2.86 billion,"1,70,000","4,65,000",97.8,46.21 billion,"2,760",5,"10,634"
+2021,Palestine,15.05 billion,"53,68,000",-11.4,3.24,12.6,15.2,352 million,N/A,N/A,98.6,1.10 billion,N/A,N/A,N/A
+2022,Israel,525.00 billion,N/A,6.5,2.89,2.37,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+2022,Palestine,19.11 billion,N/A,2.27,3.4,13,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+2023,Israel,431.00 billion,N/A,2.9,2.93,2.28,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+2023,Palestine,1.00 bllion,N/A,3,3.35,12.2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
